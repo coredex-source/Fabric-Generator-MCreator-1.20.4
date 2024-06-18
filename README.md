@@ -6,7 +6,7 @@ A plugin for [MCreator](https://mcreator.net/), a code generator to create Minec
 
 This project is not official. It is not affiliated with the respective owners and maintainers of Fabric, Minecraft, or MCreator. Do not expect any official support from their communities.
 
-**The current targeted Minecraft version is 1.20.1.**
+**The current targeted Minecraft version is 1.20.4.**
 
 ## Features
 Mod elements that are not mentioned are completely supported with all available features with Fabric.
@@ -26,7 +26,6 @@ Mod elements that are not mentioned are completely supported with all available 
 * Villager profession
 
 ## Important Information
-- Make sure you use MCreator 2023.4
 - Back up your workspace before updating to a newer version of the plugin.
 - Mods will also require [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to function properly, so when you want to play your mod, make sure you have Fabric API.
 
